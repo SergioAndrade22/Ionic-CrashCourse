@@ -1,0 +1,7 @@
+{
+  "name": "ChrashCourse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
